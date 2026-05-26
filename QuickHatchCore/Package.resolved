@@ -1,0 +1,15 @@
+{
+  "originHash" : "3fa3bc39169598ff1476bbf7921c92b113f03b0cfae31af39bf10365127c72cb",
+  "pins" : [
+    {
+      "identity" : "pelicanswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dkoster95/PelicanSwift.git",
+      "state" : {
+        "revision" : "5fb8d588edc94bf4c475abca8587d4cb09558361",
+        "version" : "3.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
